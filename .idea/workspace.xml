@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8026e7da-0b25-48f9-88b0-280ed0f55bed" name="Default" comment="" />
+    <list default="true" id="8026e7da-0b25-48f9-88b0-280ed0f55bed" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/models/gilded_rose_spec.rb" afterPath="$PROJECT_DIR$/test/models/gilded_rose_spec.rb" />
+    </list>
     <ignored path="gilded_rose_kata.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,7 +23,7 @@
     <SUITE FILE_PATH="coverage/gilded_rose_kata@GildedRose_update_quality_given_an_Aged_Brie_the_sell_date_has_passed_increases_in_quality_2_per_day__gilded_rose_kata.coverage" NAME="GildedRose#update_quality given an Aged Brie the sell date has passed increases in quality 2 per day: gilded_rose_kata Coverage Results" MODIFIED="1427099721665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gilded_rose_kata" />
     <SUITE FILE_PATH="coverage/gilded_rose_kata@GildedRose_update_quality_given_an_Aged_Brie_the_sell_date_has_not_passed_increases_in_quality_1_per_day__gilded_rose_kata.coverage" NAME="GildedRose#update_quality given an Aged Brie the sell date has not passed increases in quality 1 per day: gilded_rose_kata Coverage Results" MODIFIED="1427099597175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gilded_rose_kata" />
     <SUITE FILE_PATH="coverage/gilded_rose_kata@All_specs_in_test__gilded_rose_kata.coverage" NAME="All specs in test: gilded_rose_kata Coverage Results" MODIFIED="1427097634491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gilded_rose_kata" />
-    <SUITE FILE_PATH="coverage/gilded_rose_kata@Run_spec__gilded_rose_spec___gilded_rose_kata.coverage" NAME="Run spec 'gilded_rose_spec': gilded_rose_kata Coverage Results" MODIFIED="1427099739190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gilded_rose_kata" />
+    <SUITE FILE_PATH="coverage/gilded_rose_kata@Run_spec__gilded_rose_spec___gilded_rose_kata.coverage" NAME="Run spec 'gilded_rose_spec': gilded_rose_kata Coverage Results" MODIFIED="1427100734947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gilded_rose_kata" />
     <SUITE FILE_PATH="coverage/gilded_rose_kata@GildedRose_update_quality_does_not_degrade_quality_below_zero__gilded_rose_kata.coverage" NAME="GildedRose#update_quality does not degrade quality below zero: gilded_rose_kata Coverage Results" MODIFIED="1427098893491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gilded_rose_kata" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -41,8 +43,8 @@
           <file leaf-file-name="gilded_rose_spec.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test/models/gilded_rose_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6590457" vertical-offset="0" max-vertical-offset="1088">
-                  <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="43" />
+                <state vertical-scroll-proportion="0.9662028" vertical-offset="14" max-vertical-offset="1122">
+                  <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -76,6 +78,9 @@
       </split-second>
     </splitter>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -99,7 +104,7 @@
     <option name="width" value="2560" />
     <option name="height" value="1413" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -630,8 +635,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/models/gilded_rose_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6590457" vertical-offset="0" max-vertical-offset="1088">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.9662028" vertical-offset="14" max-vertical-offset="1122">
+          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
           <folding />
         </state>
       </provider>

@@ -53,6 +53,8 @@ describe GildedRose do
         end
       end
     end
+
+    it 'is getting complex'
   end
 end
 
